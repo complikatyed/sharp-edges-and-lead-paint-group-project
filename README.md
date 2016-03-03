@@ -1,7 +1,7 @@
 # Sharp Edges and Lead Paint
 ### An NSS group web store project
 
-# Description
+## Description
 This group project was created as part of the *Static Web* portion of the **Nashville Software School** Front End curriculum.
 
 Project requirements included:  
@@ -11,11 +11,11 @@ Project requirements included:
 
 We decided to use JavaScript to display both our products and our employees so that we could use two different JavaScript approaches.
 
-# How to run it
+## How to run it
 
   `python -m SimpleHTTPServer`  or `http-server`
 
-# Additional Contributors
+## Additional Contributors
 [Callan Morrison](https://github.com/morecallan)  
 [Josh Killgore](https://github.com/jkillz2020)  
 
